@@ -1,3 +1,4 @@
 /__pycache__
 /users.txt
-/dashboard.txt
+/dashboard.db
+/users.db

@@ -5,6 +5,14 @@ This is a simple command-line implementation of the popular casino game Blackjac
 1. Clone the repository: git clone https://github.com/nicksttar/BlackJack.git
 2. Navigate to the project directory: cd BlackJack
 3. Run the game: python3 main.py
+## Updates
+# Version 2.0
+Last update:
+- refractoring files to pep8.
+- added database.py using sqlite.
+- optimisation and fixes.
+# Version 1.0
+- Created basic project.
 ## How to Play
 The game is played against the dealer. The goal is to get a hand value of 21 or as close to 21 as possible without going over. Face cards (Jacks, Queens, and Kings) are worth 10 points, Aces are worth 11 points, and all other cards are worth their face value.
 
